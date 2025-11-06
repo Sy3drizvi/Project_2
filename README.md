@@ -9,8 +9,7 @@ Key Libraries NumPy, Pandas, Matplotlib, Scikit-learn
 Image Processing Keras ImageDataGenerator
 Hardware CPU: M4 Apple 
 
-The implementation was done following software engineering best practi- ces with well-documented modular
-ganization, detailed logging of experiments, and reproducibility. Both models were trained from scratch with random weight 
+The implementation was done following software engineering best practi- ces with well-documented , detailed logging of experiments, and reproducibility. Both models were trained from scratch with random weight 
 initialization to minimize the pretraining bias and fair comparison of the hyperparameter configurations.
 Training time for the different models varied quite significantly; Model A took approximately 
 90 minutes for 30 epochs while Model B was stopped after 45 minutes at the epoch
