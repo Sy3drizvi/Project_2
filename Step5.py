@@ -5,7 +5,7 @@ from tensorflow import keras
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 
 # ==============================================
-# STEP 5: Real Image Visual Testing (Separate Plots)
+# STEP 5: Real Image Visual Testing 
 # ==============================================
 
 # Load Models
